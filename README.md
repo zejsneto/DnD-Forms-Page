@@ -24,8 +24,12 @@ Link: [View Demo](https://zejsneto.github.io/DnD-Forms-Page/)<br>
 ## 📃 Credits to [Digital Innovation One](https://web.dio.me/home)
 
 ![GitHub](https://img.shields.io/badge/--05122A?style=flat&logo=github)&nbsp;
-[Repository](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido/tree/main)<br>
+[HTML & CSS Repository](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido/tree/main)<br>
+![GitHub](https://img.shields.io/badge/--05122A?style=flat&logo=github)&nbsp;
+[JS & Firebase Repository](https://github.com/RenanJPaula/semana-frontend-mundo-invertido)<br>
 ![YouTubeChannel](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
 [Channel](https://www.youtube.com/c/DigitalInnovationOne)<br>
 ![YouTubeVideo](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
 [Tutorial Video](https://www.youtube.com/watch?v=FZgIQUDn8zo&t=3s&ab_channel=DigitalInnovationOne)<br>
+
+
