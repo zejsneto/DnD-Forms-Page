@@ -20,12 +20,12 @@
   --header-background-color: #e3e3e3;
   --highlight-color: #000000;
   --featured-font-family: "Archivo", sans-serif;
-  --character-top-image-src: url("zejsneto.github.io/DnD-Forms-Page/assets/img/characters/kids-on-the-bike.svgg");
+  --character-top-image-src: url("../DnD-Forms-Page/assets/img/characters/kids-on-the-bike.svgg");
   --character-top-image-color: #ffffff;
-  --character-bottom-image-src: url("DnD-Forms-Page/assets/img/characters/inverted-world-monster.svg");
+  --character-bottom-image-src: url("../DnD-Forms-Page/assets/img/characters/inverted-world-monster.svg");
   --character-bottom-image-color: #e5e5e5;
   
-  --background-lamp-image: url("../assets/img/backgrounds/lamps.png");
+  --background-lamp-image: url("../DnD-Forms-Page/assets/img/backgrounds/lamps.png");
   
   --footer-background-color: #b5bbbf;
 }
@@ -40,12 +40,12 @@
   --header-background-color: #220f0f;
   --highlight-color: #ffffff;
   --featured-font-family: "Rubik Glitch", sans-serif;
-  --character-bottom-image-src: url("../../assets/img/characters/kids-on-the-bike.svg");
+  --character-bottom-image-src: url("../DnD-Forms-Page/assets/img/characters/kids-on-the-bike.svg");
   --character-bottom-image-color: rgba(255, 255, 255, 0.1);
   --character-top-image-src: url("../DnD-Forms-Page/assets/img/characters/inverted-world-monster.svg");
   --character-top-image-color: #000;
   
-  --background-lamp-image: url("https://zejsneto.github.io/DnD-Forms-Page/assets/img/backgrounds/lamps-inverted.png");
+  --background-lamp-image: url("../DnD-Forms-Page/assets/img/backgrounds/lamps-inverted.png");
   
   --footer-background-color: #000;
 }
