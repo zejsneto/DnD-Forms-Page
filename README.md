@@ -5,7 +5,7 @@
 
 A D&amp;D Forms page inspired by Stranger Things with Firebase API, developed with HTML, CSS and JavaScript. <br>
 
-Link: [View Demo](https://zejsneto.github.io/DnD-Forms-Page/)<br>
+Link: [View Demo](https://zejsneto.github.io/DnD-Forms-Page/)
 
 <br>⚠️The texts of the site are in Portuguese, but the code is written in English. <br>
 ⚠️The Database will be available until 10/16/22 due to Firebase time limit.
