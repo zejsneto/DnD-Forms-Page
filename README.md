@@ -3,7 +3,7 @@
 
 ## ℹ️ Description
 
-A D&amp;D Forms page inspired by Stranger Things with Firebase API, developed with HTML, CSS and JavaScript. <br>
+A D&amp;D Forms page inspired by Stranger Things with Light and Dark mode, Firebase API, developed with HTML, CSS and JavaScript. <br>
 
 Link: [View Demo](https://zejsneto.github.io/DnD-Forms-Page/)
 
